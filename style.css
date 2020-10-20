@@ -1,4 +1,7 @@
+html {
+  background: #99CCCC;
+}
+
 body {
-    padding-top: 70px;
-    background-color: #99CCCC;
-  }
+  padding-top: 70px;
+}
